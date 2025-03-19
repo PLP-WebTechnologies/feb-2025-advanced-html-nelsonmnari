@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(0, 3, 3, 0.608);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+button{
+    background-color: rgb(42, 135, 135);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+}
+
+.blue{
+    background-color: rgb(58, 192, 165);
+}
+
+img{
+    position: absolute;
+    top: 125px;
+    right: 180px;
+    height: 295px;
+    width: 427px;
+    bottom: 200px;
+    left: 300px;
+    z-index: -2;
+    display: fit-content;
+    border-radius: 10px;
+}
